@@ -3,9 +3,13 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
-# Folder icons
+## Folder Icon Files
 desktop.ini
 folder_icon.ico
+
+## AI Coding Resouces
+AGY/
+.vscode/
 
 # User-specific files
 *.rsuser
